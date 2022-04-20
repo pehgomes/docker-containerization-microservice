@@ -300,7 +300,7 @@ curl -i http://localhost:5000/api/http://example.com/
 sed -i 's/Link Extractor/Super Link Extractor/g' www/index.php
 ```
 
-![alt text](img/web2.png)
+![alt text](img/web3.png)
 
 * Fazendo o stop do container
 * Para remover nossa alteração, podemos rodar um comando git, voltando a versão do código do projeto para a versão de origem, inicial.
